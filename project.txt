@@ -1,0 +1,31 @@
+https://www.youtube.com/watch?v=DzAZ2Bq_dgU 
+Deep Learning Methods for Emotion Detection from Text - Dr. Liron Allerhand
+
+
+https://github.com/maelfabien/Multimodal-Emotion-Recognition/blob/master/README.md#a-text-processing
+
+Theory
+https://www.baeldung.com/cs/ml-emotion-detection
+
+
+DL method - Presentation
+https://www.youtube.com/watch?v=t8KH4HA-zGU
+Text-based Emotion Recognition
+
+
+Classic NLP
+https://www.youtube.com/watch?v=Sg8NjU_WRX8
+Emotion Detection From Text | MACHINE LEARNING CLASSFICATION | NLP
+
+
+https://www.youtube.com/watch?v=0kPRaYSgblM
+Naive Bayes algorithm in Machine learning Program | Text Classification python (2018)
+
+
+Refer Code here
+https://github.com/codewrestling/TextClassification/blob/master/Text%20Classification.py
+
+https://www.kaggle.com/arunrk7/nlp-beginner-text-classification-using-lstm
+
+https://www.youtube.com/watch?v=7MQ_SXlOXaE
+Multiclass Text Classification using Keras Tensorflow
